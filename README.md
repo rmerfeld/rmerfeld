@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rmerfeld
 - 👀 I’m interested in cloud, ai and blockchain
 - 💻 I have also fun developing apps for ios or macos
-- 💞️ I’m looking to collaborate on ...
 - 📫 reinhard@merfeld.info
 
 <!---
